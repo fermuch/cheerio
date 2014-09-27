@@ -1,0 +1,9 @@
+{
+  "name": "cheerio",
+  "description": "cheerio wrapper for meteor",
+  "homepage": "https://github.com/DerMambo/cheerio",
+  "author": "Manuel Schoebel (http://manuel-schoebel.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/DerMambo/cheerio.git",
+  "packages": {}
+}
