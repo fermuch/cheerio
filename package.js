@@ -5,7 +5,7 @@ Package.describe({
   version: "0.0.1"
 });
 
-Npm.depends({cheerio: "0.17.0"});
+Npm.depends({cheerio: "0.19.0"});
 
 Package.onUse(function(api){
   api.versionsFrom("0.9.0");
