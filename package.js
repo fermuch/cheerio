@@ -1,8 +1,8 @@
 Package.describe({
-  name: "manuelschoebel:cheerio",
+  name: "fermuch:cheerio",
   summary: "cheerio wrapped for meteor",
-  git: "https://github.com/DerMambo/cheerio.git",
-  version: "0.0.1"
+  git: "https://github.com/fermuch/cheerio.git",
+  version: "0.19.0"
 });
 
 Npm.depends({cheerio: "0.19.0"});
